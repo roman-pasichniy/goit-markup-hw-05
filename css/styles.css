@@ -537,3 +537,7 @@ ul {
   background-color: #404bbf;
   border: none;
 }
+
+.button-icons {
+  transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
