@@ -571,7 +571,8 @@ ul {
 }
 
 .modal-username,
-.modal-phone {
+.modal-phone,
+.modal-email {
   position: relative;
 }
 
@@ -593,6 +594,7 @@ ul {
 .modal-input-email:focus,
 .modal-comment-text:focus {
   border-color: #4d5ae5;
+  fill: #4D5AE5;
 }
 
 .modal-username-icons {
