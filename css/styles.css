@@ -597,7 +597,9 @@ ul {
   fill: #4D5AE5;
 }
 
-.modal-name-icons {
+.modal-name-icons,
+.modal-phone-icons,
+.modal-email-icons {
   position: absolute;
   left: 16px;
   top: 50%;
