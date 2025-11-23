@@ -647,6 +647,10 @@ ul {
   fill: transparent;
 }
 
+.modal-form-checkbox-check {
+  display: inline-flex;
+}
+
 .modal-form-checkbox-check:checked + .modal-form-checkbox-label > .modal-form-checkbox-label-span {
   background-color: #404bbf;
   border: none;
