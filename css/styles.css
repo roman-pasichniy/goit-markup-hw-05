@@ -645,5 +645,15 @@ ul {
   align-items: center;
   justify-content: center;
   fill: transparent;
-
 }
+
+.modal-form-checkbox-check:checked + .modal-form-checkbox-label > .modal-form-checkbox-label-span {
+  background-color: #404bbf;
+  border: none;
+  fill: #F4F4FD;
+}
+
+.modal-form-checkbox-ref {
+  color: #4d5ae5;
+}
+
