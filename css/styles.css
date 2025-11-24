@@ -599,10 +599,6 @@ ul {
   fill: #4d5ae5;
 }
 
-.modal-form-icon-name:focus {
-  fill: #4D5AE5;
-}
-
 .modal-form-comment {
   margin-bottom: 16px;
 }
@@ -640,6 +636,7 @@ ul {
 }
 
 .modal-form-checkbox-label-span {
+  margin-right: 8px;
   width: 16px;
   height: 16px;
   border: 1px solid rgba(46, 47, 66, 0.4);
